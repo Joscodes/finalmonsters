@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finalmonsters/static/css/main.16c2d8c6.chunk.css",
+    "main.js": "/finalmonsters/static/js/main.c2718c09.chunk.js",
+    "main.js.map": "/finalmonsters/static/js/main.c2718c09.chunk.js.map",
+    "runtime-main.js": "/finalmonsters/static/js/runtime-main.b34e24d9.js",
+    "runtime-main.js.map": "/finalmonsters/static/js/runtime-main.b34e24d9.js.map",
+    "static/js/2.cc09eb95.chunk.js": "/finalmonsters/static/js/2.cc09eb95.chunk.js",
+    "static/js/2.cc09eb95.chunk.js.map": "/finalmonsters/static/js/2.cc09eb95.chunk.js.map",
+    "static/js/3.b6b74bf6.chunk.js": "/finalmonsters/static/js/3.b6b74bf6.chunk.js",
+    "static/js/3.b6b74bf6.chunk.js.map": "/finalmonsters/static/js/3.b6b74bf6.chunk.js.map",
+    "index.html": "/finalmonsters/index.html",
+    "static/css/main.16c2d8c6.chunk.css.map": "/finalmonsters/static/css/main.16c2d8c6.chunk.css.map",
+    "static/js/2.cc09eb95.chunk.js.LICENSE.txt": "/finalmonsters/static/js/2.cc09eb95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b34e24d9.js",
+    "static/js/2.cc09eb95.chunk.js",
+    "static/css/main.16c2d8c6.chunk.css",
+    "static/js/main.c2718c09.chunk.js"
+  ]
+}
